@@ -7280,11 +7280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roserain\\source\\repos\\InvoinceProject\\InvoinceProject\\InvoinceProject.csproj",
+      "projectUniqueName": "C:\\GithubRepos\\InvoiceMVC\\Project\\InvoinceProject\\InvoinceProject.csproj",
       "projectName": "InvoinceProject",
-      "projectPath": "C:\\Users\\roserain\\source\\repos\\InvoinceProject\\InvoinceProject\\InvoinceProject.csproj",
+      "projectPath": "C:\\GithubRepos\\InvoiceMVC\\Project\\InvoinceProject\\InvoinceProject.csproj",
       "packagesPath": "C:\\Users\\roserain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roserain\\source\\repos\\InvoinceProject\\InvoinceProject\\obj\\",
+      "outputPath": "C:\\GithubRepos\\InvoiceMVC\\Project\\InvoinceProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roserain\\AppData\\Roaming\\NuGet\\NuGet.Config",
