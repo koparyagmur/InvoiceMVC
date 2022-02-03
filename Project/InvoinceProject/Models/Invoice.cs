@@ -19,7 +19,6 @@ namespace InvoinceProject.Models
         [Required(ErrorMessage = "Please Enter Product Qty")]
         public int Quantity { get; set; }
 
-        [Required(ErrorMessage = "Please Enter Product Amount")]
         public decimal Amount { get; set; }
     }
 }
