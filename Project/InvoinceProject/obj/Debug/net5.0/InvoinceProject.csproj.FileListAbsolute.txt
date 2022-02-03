@@ -119,3 +119,4 @@ C:\GithubRepos\InvoiceMVC\Project\InvoinceProject\obj\Debug\net5.0\InvoinceProje
 C:\GithubRepos\InvoiceMVC\Project\InvoinceProject\obj\Debug\net5.0\ref\InvoinceProject.dll
 C:\GithubRepos\InvoiceMVC\Project\InvoinceProject\obj\Debug\net5.0\InvoinceProject.pdb
 C:\GithubRepos\InvoiceMVC\Project\InvoinceProject\obj\Debug\net5.0\InvoinceProject.genruntimeconfig.cache
+C:\GithubRepos\InvoiceMVC\Project\InvoinceProject\obj\Debug\net5.0\InvoinceProject.csproj.AssemblyReference.cache

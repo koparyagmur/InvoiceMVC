@@ -9,7 +9,7 @@ namespace InvoinceProject.Models
     {
         string connectionString = "Server=.;Database=InvoiceDB;Integrated Security=true;";
 
-        //Get the details of a particular User Data    
+        //Get the details of a particular Login Data    
         public Login GetLoginData(string UserName, string Password)
         {
             Login Users = new Login();

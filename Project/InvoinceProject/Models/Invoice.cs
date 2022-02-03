@@ -7,21 +7,19 @@ namespace InvoinceProject.Models
     {
         public int Id { get; set; }
 
-        //[Range(2, 10, ErrorMessage = "Please use min 2 and max 100 character")]
+        [Required(ErrorMessage = "Please Enter Product Code")]
         public string ProductCode { get; set; }
 
-        //[Range(2, 100, ErrorMessage = "Please use min 2 and max 100 character")]
+        [Required(ErrorMessage ="Please Enter Product Name")]
         public string ProductName { get; set; }
 
-        [Required]
-        //[RegularExpression(@"^\d+.?\d{0,2}$", ErrorMessage = "Invalid Target Price; Maximum Two Decimal Points.")]
+        [Required(ErrorMessage = "Please Enter Unit Price")]
         public decimal UnitPrice { get; set; }
 
-        //[Required(ErrorMessage = "Can not be null")]
+        [Required(ErrorMessage = "Please Enter Product Qty")]
         public int Quantity { get; set; }
 
-        [Required]
-        //[RegularExpression(@"^\d+.?\d{0,2}$", ErrorMessage = "Invalid Target Price; Maximum Two Decimal Points.")]
+        [Required(ErrorMessage = "Please Enter Product Amount")]
         public decimal Amount { get; set; }
     }
 }

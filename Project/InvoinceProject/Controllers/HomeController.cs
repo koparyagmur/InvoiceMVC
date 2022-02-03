@@ -38,7 +38,7 @@ namespace InvoinceProject.Controllers
                 objInvoices.AddInvoice(invAdd);
                 return RedirectToAction("Index");
             }
-            return View(objInvoices);
+            return View();
         }
 
         [HttpGet]
